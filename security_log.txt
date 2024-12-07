@@ -1,0 +1,2 @@
+2024-12-07 16:08:11,987 - ERROR: Sound play error: No file 'intruder_alert.mp3' found in working directory 'D:\CVETEIII'.
+2024-12-07 16:08:11,988 - INFO: THREAT DETECTED: PERSON at 2024-12-07 16:08:11
